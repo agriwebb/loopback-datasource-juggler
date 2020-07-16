@@ -1,3 +1,57 @@
+2019-04-15, Version 2.59.2
+==========================
+
+ * fix: normalize include with boolean or number (spurreiter)
+
+
+2019-04-09, Version 2.59.1
+==========================
+
+ * fix: ignore .git folder (#1709) (Janny)
+
+
+2019-04-09, Version 2.59.0
+==========================
+
+ * Do not apply default values on data from database (Miroslav Bajtoš)
+
+ * feat: Support "type" key in sub-properties (Hage Yaapa)
+
+
+2018-10-08, Version 2.58.1
+==========================
+
+ * Describe LTS versions in README (Miroslav Bajtoš)
+
+
+2018-07-31, Version 2.58.0
+==========================
+
+ * feat: omit default fn for embeds many (jannyHou)
+
+
+2018-05-18, Version 2.57.0
+==========================
+
+ * Add support for Node.js 8.x and 10.x, drop 4.x (Miroslav Bajtoš)
+
+
+2018-01-19, Version 2.56.0
+==========================
+
+ * fix unauthorized fk change (#1540) (Taranveer Virk)
+
+ * drop support for node 0.10 / 0.12 (#1541) (Taranveer Virk)
+
+
+2017-09-26, Version 2.55.3
+==========================
+
+ * fix(model-builder): __data may be null. (#1415) (Samuel Reed)
+
+ * package: use qs@6.5.0 (#1470) (Kevin Delisle)
+
+
 2017-07-28, Version 2.55.2
 ==========================
 
